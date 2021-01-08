@@ -8,7 +8,7 @@ import net.dv8tion.jda.api.entities.MessageEmbed;
 import javax.security.auth.login.LoginException;
 
 public class Bot {
-    private static final String TOKEN = "Nzk3MDU1OTIxNjY2NTIzMTM2.X_g6LA.oEvF1LStxauI0fWaIB81KJJOhzU";
+    private static final String TOKEN = "Nzk3MDU1OTIxNjY2NTIzMTM2.X_g6LA.oEvF1LStxauI0fWaIB81KJJOhzU"; //これはdummyのtokenです
     private static JDA jda;
 
     public static void login() throws LoginException {
